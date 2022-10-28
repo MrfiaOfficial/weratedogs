@@ -1,6 +1,6 @@
 # weratedogs
+### By: Ige Amos Fadele
 
-## Report: act_report
 This report succinctly communicate the insights and displays the visualization(s) produced from the wrangled data for the Wrangle Act Project.
 
 The Wrangle Act project objective is to gathered data from three different sources, assessed, cleaned and merged the three cleaned datasets into a master data table. Also, made some analysis to get insights and made some visualizations so as to communicate some of our findings.
@@ -26,4 +26,4 @@ After a series of exploratory analysis, the answers I got to the stated analysis
 - Among the defined age stages, pupper has the highest number of occurence, hence it's the age stage of most of the dogs. The sum of the other defined age stage counts is less than the pupper count.
 
 ### Author: Ige Amos Fadele
-LinkedIn: <a href='linkedin.com/in/MrfiaOfficial'>linkedin.com/in/MrfiaOfficial </a>
+#### LinkedIn: <a href='https://linkedin.com/in/MrfiaOfficial'>linkedin.com/in/MrfiaOfficial </a>
